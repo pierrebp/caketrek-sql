@@ -1,0 +1,35 @@
+Descriptif de toute les tables de la base de données
+
+Users
+=> Liste de toute les utilisateurs du site (admin, guides, touristes, modérateur etc)
+
+
+Tourists
+=> Liste de tout les touristes du site
+
+
+Guides
+=> Liste de tout les guides inscrit sur le site
+
+
+Guide Submission
+=> Permet à un touriste de proposer sa "candidature" en tant que guide
+
+
+Journey
+
+
+
+Track
+
+
+
+Zone
+
+
+
+Vote
+
+
+
+Commentaire
